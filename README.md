@@ -1,4 +1,4 @@
-# Hi, I’m James 👋
+# Hi, I’m James 
 
 I’m a Business Informatics & Analytics postgraduate student with a strong background in real estate valuation and business analysis. I focus on transforming data into clear, decision-ready insights using SQL, Python, and Power BI.
 
