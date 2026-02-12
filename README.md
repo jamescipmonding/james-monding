@@ -5,6 +5,8 @@ I’m a Business Informatics & Analytics postgraduate student with a strong back
 ## 🎓 Education
 - Master of Business Informatics & Analytics (MBI)  
   Yoobee Colleges, New Zealand
+- Bachelor of Science in Business Ad Major in Marketing Management (BSBA)
+  University of Santo Tomas, Philippines
 
 ## 🧠 Core Skills
 - SQL (data extraction, transformation, analytical queries)
