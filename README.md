@@ -2,12 +2,15 @@
 
 I’m a Business Informatics & Analytics postgraduate student with a strong background in real estate valuation and business analysis. I focus on transforming data into clear, decision-ready insights using SQL, Python, and Power BI.
 
-## 🎓 Education
-- Master of Business Informatics & Analytics (MBI)  
-  Yoobee Colleges, New Zealand
-- Bachelor of Science in Business Ad Major in Marketing Management (BSBA)
-  
+🎓 **Education**
+
+- **Master of Business Informatics & Analytics (MBI)**  
+  Yoobee Colleges, New Zealand  
+
+- **Bachelor of Science in Business Administration (BSBA)**  
+  Major in Marketing Management  
   University of Santo Tomas, Philippines
+
 
 ## 🧠 Core Skills
 - SQL (data extraction, transformation, analytical queries)
