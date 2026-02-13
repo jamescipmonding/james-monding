@@ -1,6 +1,10 @@
 # Hi, I’m James 
 
-I’m a Business Informatics & Analytics postgraduate student with a strong background in real estate valuation and business analysis. I focus on transforming data into clear, decision-ready insights using SQL, Python, and Power BI.
+Hi, I’m James 👋
+
+I’m a Master of Business Informatics & Analytics (MBI) candidate in New Zealand with 7+ years of professional experience in real estate valuation and financial analysis.
+
+My work sits at the intersection of data analytics, business intelligence, and financial decision support — transforming structured data into clear, decision-ready insights using SQL, Python, and Power BI.
 
  **Education**
 
@@ -21,14 +25,38 @@ I’m a Business Informatics & Analytics postgraduate student with a strong back
 
 ##  Featured Projects
 ### 🔹 MBI806B – Business Data Analytics
-End-to-end analytics project focusing on data preparation, analysis, and insight generation.
+
+End-to-end stock market analytics project covering:
+
+Multi-source data ingestion
+
+Data cleaning & transformation
+
+Analytical modelling
+
+Risk-return evaluation
+
+Power BI dashboard development
+
+➡️ Repository: https://github.com/jamescipmonding/MBI806B-Business-Data-Analytics
 
 ➡️ Repository: Coming soon
 
 ### 🔹 MBI807B – Business Intelligence & Data Warehousing
-BI solution covering data modelling, ETL processes, and dashboard development.
 
-➡️ Repository: Coming soon
+Business Intelligence solution including:
+
+Data warehouse design (star schema)
+
+ETL pipeline development (Python + SQLite)
+
+Fact & dimension modelling
+
+KPI framework design
+
+Executive dashboard development
+
+➡️ Repository: https://github.com/jamescipmonding/MBI807B-Business-Intelligence-DW
 
 ##  Professional Background
 - 7+ years experience in real estate valuation and property analytics
