@@ -67,5 +67,3 @@ Graduate / Junior roles in:
 - Business Analytics
 - Data Analytics
 - Business Intelligence
-
-📫 Connect with me on LinkedIn or explore my repositories below.
