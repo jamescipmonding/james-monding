@@ -1,12 +1,12 @@
 # Hi, I’m James 
 
-Hi, I’m James 👋
+
 
 I’m a Master of Business Informatics & Analytics (MBI) candidate in New Zealand with 7+ years of professional experience in real estate valuation and financial analysis.
 
 My work sits at the intersection of data analytics, business intelligence, and financial decision support — transforming structured data into clear, decision-ready insights using SQL, Python, and Power BI.
 
- **Education**
+## Education
 
 - **Master of Business Informatics & Analytics (MBI)**  
   Yoobee Colleges, New Zealand  
