@@ -40,8 +40,6 @@ Power BI dashboard development
 
 ➡️ Repository: https://github.com/jamescipmonding/MBI806B-Business-Data-Analytics
 
-➡️ Repository: Coming soon
-
 ### 🔹 MBI807B – Business Intelligence & Data Warehousing
 
 Business Intelligence solution including:
