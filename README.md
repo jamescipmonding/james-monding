@@ -23,7 +23,7 @@ My work sits at the intersection of data analytics, business intelligence, and f
 - Data Warehousing & ETL
 - Business analytics & decision support
 
-##  Featured Projects
+## Featured Projects
 ### 🔹 MBI806B – Business Data Analytics
 
 End-to-end stock market analytics project covering:
